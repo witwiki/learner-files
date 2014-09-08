@@ -1,9 +1,9 @@
 /*
  * File: CS106ATiles.java
  * @witwiki
- * @30.08.2013 
+ * #30.08.2013 
  * ----------------------
- * This file is the starter file for the CS106ATiles problem.
+ * This file solves the CS106ATiles problem.
  * 
  * Alternative: Create a class called tile with a basic label 
  * "CS106A" positioned in the centre and call an instance of the

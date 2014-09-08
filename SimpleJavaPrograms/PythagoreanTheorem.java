@@ -1,9 +1,9 @@
 /*
  * File: FindRange.java
  * @witwiki
- * @06.09.2013 
+ * #06.09.2013 
  * -----------------------------
- * This file is the starter file for the PythagoreanTheorem problem.
+ * This file solves the PythagoreanTheorem problem.
  */
 
 import acm.program.*;

@@ -1,9 +1,9 @@
 /*
  * File: FindRange.java
  * @witwiki
- * @05.09.2013 
+ * #05.09.2013 
  * ----------------------
- * This file is the starter file for the FindRange problem.
+ * This file solves the FindRange problem.
  */
 
 import acm.program.*;
