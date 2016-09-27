@@ -1,6 +1,5 @@
-# randomjavafiles
-as it says
+# A Learner's Files (learner-files)
 
-This is a repository of all code I wrote to learn java, c, c++, python and other languages in the future.
-Its just elementary, hard (especially if I'm doing it for the first time) and crude.
-Its a practice folder.
+This is a repository that stores all code of projects and experiments done to learn a programming language such as Java, C++, python, go etc.
+
+A sandbox folder
